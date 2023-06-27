@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.blackwhissh.app.SortingAppTest
+-------------------------------------------------------------------------------
+Tests run: 25, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.106 s - in com.blackwhissh.app.SortingAppTest
